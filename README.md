@@ -1,4 +1,4 @@
-# WG Academy test to DevOps
+# WG Academy test for Programming course
 ____
 
 #### Описание проекта
